@@ -1,3 +1,29 @@
+# pi
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+AI Agent 工具包：统一 LLM API、Agent 循环、TUI 与编码 Agent CLI。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <a href="https://pi.dev">
     <img alt="pi logo" src="https://pi.dev/logo-auto.svg" width="128">
